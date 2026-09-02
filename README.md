@@ -2,7 +2,7 @@
 
 ## Bộ tài sản tiếng Việt
 
-Bộ này gồm 21 tutorial Markdown độc lập, 21 skill production-ready và README kiến trúc. Mỗi tutorial có mục đích, đầu vào, setup, hướng dẫn từng bước, system instructions, prompt mẫu, output schema, test case, checklist, lỗi thường gặp, tùy chỉnh, mở rộng và kịch bản quay video.
+Bộ này gồm 21 hướng dẫn Markdown độc lập, 21 skill production-ready và README kiến trúc. Mỗi hướng dẫn có mục đích, đầu vào, setup, hướng dẫn từng bước, system instructions, prompt mẫu, output schema, test case, checklist, lỗi thường gặp, tùy chỉnh và mở rộng.
 
 Các skill vẫn giữ mã gọi tiếng Anh như `$smos-01-icp-builder` để dễ dùng trong mọi workspace; phần giải thích, instructions, prompt và metadata đã chuyển sang tiếng Việt.
 
@@ -26,6 +26,10 @@ Luồng không hoàn toàn tuyến tính. Research làm mới strategy; sales ca
 3. **Assumption Log (AL):** assumption ID, lý do, rủi ro nếu sai, cách kiểm chứng, owner, hạn và trạng thái.
 4. **Decision Record (DR):** quyết định, phương án, bằng chứng, lý do, người duyệt, ngày và trigger review.
 5. **Handoff Packet (HP):** context ngắn đã duyệt để chuyển sang skill kế tiếp; không thêm phân tích mới.
+
+## Bộ object mẫu
+
+Thư mục [demo/](demo/00-demo-pack-readme.md) chứa dữ liệu hư cấu nhưng nhất quán cho toàn bộ 21 skill: bối cảnh công ty, evidence, giả định, quyết định, handoff, lead, transcript sales, pipeline và content/campaign brief. Không dùng dữ liệu demo như claim hoặc dữ liệu production.
 
 ## Quy ước đặt tên
 
@@ -60,9 +64,9 @@ Luồng không hoàn toàn tuyến tính. Research làm mới strategy; sales ca
 6. Review Quality Checklist và duyệt artifact.
 7. Lưu Handoff Packet có ngày và phiên bản.
 
-## Danh sách 21 tutorial
+## Danh sách 21 hướng dẫn
 
-| # | Tutorial | Lớp | Kết quả chính |
+| # | Hướng dẫn | Lớp | Kết quả chính |
 |---:|---|---|---|
 | 01 | [ICP Builder — Xây dựng ICP](01-icp-builder.md) | Nền tảng | thẻ ICP chính và phụ |
 | 02 | [Market Research — Nghiên cứu thị trường](02-market-research.md) | Nền tảng | bản đồ thị trường và động lực |
@@ -94,7 +98,7 @@ Luồng không hoàn toàn tuyến tính. Research làm mới strategy; sales ca
 - Con người duyệt claim, message, giá, proposal, forecast và external action.
 - Chỉ dùng dữ liệu cá nhân ở mức cần thiết.
 - Ổn định workflow thủ công trước khi tự động hóa.
-- Đưa win, loss, reply, conversion và objection quay lại Research, ICP, Positioning và Offer.
+- Đưa win, loss, reply, conversion và objection trở về Research, ICP, Positioning và Offer.
 
 ## Mức mở rộng integration
 
@@ -106,6 +110,6 @@ Luồng không hoàn toàn tuyến tính. Research làm mới strategy; sales ca
 
 External write, gửi message, đặt lịch, sửa CRM và automation phải có approval gate rõ ràng.
 
-## Tách Tutorial và Production
+## Dữ liệu Demo và Production
 
-Project tutorial dùng công ty giả và dữ liệu mẫu. Project production dùng Business Context Card thật và chat theo từng công việc cụ thể. Không đưa dữ liệu khách hàng thật vào project quay video.
+Bộ demo dùng công ty giả và dữ liệu mẫu. Project production dùng Business Context Card thật và chat theo từng công việc cụ thể. Không đưa dữ liệu khách hàng thật vào bộ demo hoặc repository chia sẻ.
