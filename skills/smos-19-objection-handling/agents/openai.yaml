@@ -1,0 +1,7 @@
+interface:
+  display_name: "Objection Handling — Xử lý phản đối"
+  short_description: "Objection Handling cho quyết định kinh doanh thực tế"
+  default_prompt: "Dùng $smos-19-objection-handling để chẩn đoán mối lo đằng sau objection và phản hồi bằng đồng cảm, bằng chứng cùng bước tiếp theo phù hợp."
+
+policy:
+  allow_implicit_invocation: true

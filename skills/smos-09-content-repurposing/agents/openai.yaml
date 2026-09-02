@@ -1,0 +1,7 @@
+interface:
+  display_name: "Content Repurposing — Tái sử dụng nội dung"
+  short_description: "Content Repurposing cho quyết định kinh doanh thực tế"
+  default_prompt: "Dùng $smos-09-content-repurposing để biến một tài sản nguồn thành nhiều mảnh nội dung native theo channel mà vẫn giữ nghĩa và attribution."
+
+policy:
+  allow_implicit_invocation: true

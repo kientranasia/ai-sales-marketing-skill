@@ -1,0 +1,7 @@
+interface:
+  display_name: "Offer Builder — Xây dựng offer"
+  short_description: "Offer Builder cho quyết định kinh doanh thực tế"
+  default_prompt: "Dùng $smos-06-offer-builder để đóng gói sản phẩm/dịch vụ thành offer rõ, có giá trị, đáng tin và giảm ma sát mua."
+
+policy:
+  allow_implicit_invocation: true

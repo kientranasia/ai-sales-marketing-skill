@@ -1,0 +1,7 @@
+interface:
+  display_name: "Proposal Builder — Xây dựng proposal"
+  short_description: "Proposal Builder cho quyết định kinh doanh thực tế"
+  default_prompt: "Dùng $smos-18-proposal-builder để tạo proposal theo buyer, nối outcome đã chẩn đoán với scope, proof, economics và quyết định."
+
+policy:
+  allow_implicit_invocation: true

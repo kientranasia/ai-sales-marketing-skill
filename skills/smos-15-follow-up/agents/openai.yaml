@@ -1,0 +1,7 @@
+interface:
+  display_name: "Follow-up — Theo đuổi cơ hội"
+  short_description: "Follow-up cho quyết định kinh doanh thực tế"
+  default_prompt: "Dùng $smos-15-follow-up để chọn và viết follow-up tốt nhất dựa trên trạng thái hội thoại, giá trị, thời điểm và sự đồng thuận."
+
+policy:
+  allow_implicit_invocation: true

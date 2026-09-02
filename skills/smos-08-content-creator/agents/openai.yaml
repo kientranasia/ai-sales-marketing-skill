@@ -1,0 +1,7 @@
+interface:
+  display_name: "Content Creator — Sáng tạo nội dung"
+  short_description: "Content Creator cho quyết định kinh doanh thực tế"
+  default_prompt: "Dùng $smos-08-content-creator để tạo nội dung đúng channel, chính xác và thuyết phục từ một brief đã được duyệt."
+
+policy:
+  allow_implicit_invocation: true

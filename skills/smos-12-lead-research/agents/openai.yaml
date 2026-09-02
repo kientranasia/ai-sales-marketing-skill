@@ -1,0 +1,7 @@
+interface:
+  display_name: "Lead Research — Nghiên cứu lead"
+  short_description: "Lead Research cho quyết định kinh doanh thực tế"
+  default_prompt: "Dùng $smos-12-lead-research để tạo account/contact brief ngắn, có bằng chứng để cá nhân hóa một cách liên quan."
+
+policy:
+  allow_implicit_invocation: true

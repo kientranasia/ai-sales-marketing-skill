@@ -1,0 +1,7 @@
+interface:
+  display_name: "Outreach — Tiếp cận"
+  short_description: "Outreach cho quyết định kinh doanh thực tế"
+  default_prompt: "Dùng $smos-14-outreach để viết outreach liên quan, ngắn và có đạo đức dựa trên lý do liên hệ đáng tin."
+
+policy:
+  allow_implicit_invocation: true

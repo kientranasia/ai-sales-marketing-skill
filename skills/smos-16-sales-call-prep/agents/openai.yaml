@@ -1,0 +1,7 @@
+interface:
+  display_name: "Sales Call Prep — Chuẩn bị cuộc gọi sales"
+  short_description: "Sales Call Prep cho quyết định kinh doanh thực tế"
+  default_prompt: "Dùng $smos-16-sales-call-prep để chuẩn bị call plan tập trung, có bằng chứng và giúp quyết định của buyer tiến lên."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Market Research — Nghiên cứu thị trường"
+  short_description: "Market Research cho quyết định kinh doanh thực tế"
+  default_prompt: "Dùng $smos-02-market-research để tạo market brief định hướng quyết định, gồm dữ kiện có nguồn, ước tính, xu hướng và hàm ý chiến lược."
+
+policy:
+  allow_implicit_invocation: true

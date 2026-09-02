@@ -1,0 +1,7 @@
+interface:
+  display_name: "Lead Qualification — Đánh giá lead"
+  short_description: "Lead Qualification cho quyết định kinh doanh thực tế"
+  default_prompt: "Dùng $smos-13-lead-qualification để chấm fit, intent, need, timing và risk minh bạch rồi đề xuất hành động tiếp theo."
+
+policy:
+  allow_implicit_invocation: true

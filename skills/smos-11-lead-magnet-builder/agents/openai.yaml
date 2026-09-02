@@ -1,0 +1,7 @@
+interface:
+  display_name: "Lead Magnet Builder — Xây dựng lead magnet"
+  short_description: "Lead Magnet Builder cho quyết định kinh doanh thực tế"
+  default_prompt: "Dùng $smos-11-lead-magnet-builder để tạo tài sản hữu ích, cụ thể để kiếm sự chú ý và lọc đúng prospect."
+
+policy:
+  allow_implicit_invocation: true

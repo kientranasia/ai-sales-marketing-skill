@@ -1,0 +1,7 @@
+interface:
+  display_name: "Positioning & Messaging — Định vị và thông điệp"
+  short_description: "Positioning & Messaging cho quyết định kinh doanh thực tế"
+  default_prompt: "Dùng $smos-05-positioning-messaging để tạo hệ thống messaging khác biệt, có bằng chứng và phù hợp với một ICP cùng bối cảnh mua."
+
+policy:
+  allow_implicit_invocation: true

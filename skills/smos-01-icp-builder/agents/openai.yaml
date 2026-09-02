@@ -1,0 +1,7 @@
+interface:
+  display_name: "ICP Builder — Xây dựng ICP"
+  short_description: "ICP Builder cho quyết định kinh doanh thực tế"
+  default_prompt: "Dùng $smos-01-icp-builder để biến sản phẩm và bằng chứng khách hàng thành một Ideal Customer Profile hẹp, có thể kiểm chứng."
+
+policy:
+  allow_implicit_invocation: true

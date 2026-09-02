@@ -1,0 +1,7 @@
+interface:
+  display_name: "Customer Research & VOC — Nghiên cứu khách hàng"
+  short_description: "Customer Research & VOC cho quyết định kinh doanh thực tế"
+  default_prompt: "Dùng $smos-04-customer-research-voc để biến interview, review, ticket, survey và call thành ngôn ngữ khách hàng có thể truy vết và insight dùng được."
+
+policy:
+  allow_implicit_invocation: true

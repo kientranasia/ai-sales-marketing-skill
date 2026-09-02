@@ -1,0 +1,7 @@
+interface:
+  display_name: "Competitor Research — Nghiên cứu đối thủ"
+  short_description: "Competitor Research cho quyết định kinh doanh thực tế"
+  default_prompt: "Dùng $smos-03-competitor-research để so sánh các lựa chọn thật, kể cả status quo, mà không bịa thông tin về đối thủ."
+
+policy:
+  allow_implicit_invocation: true

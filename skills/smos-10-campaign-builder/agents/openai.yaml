@@ -1,0 +1,7 @@
+interface:
+  display_name: "Campaign Builder — Xây dựng chiến dịch"
+  short_description: "Campaign Builder cho quyết định kinh doanh thực tế"
+  default_prompt: "Dùng $smos-10-campaign-builder để thiết kế chiến dịch tích hợp nối audience, offer, message, asset, channel, thời gian và đo lường."
+
+policy:
+  allow_implicit_invocation: true

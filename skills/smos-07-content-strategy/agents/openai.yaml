@@ -1,0 +1,7 @@
+interface:
+  display_name: "Content Strategy — Chiến lược nội dung"
+  short_description: "Content Strategy cho quyết định kinh doanh thực tế"
+  default_prompt: "Dùng $smos-07-content-strategy để biến mục tiêu kinh doanh, insight ICP và offer thành hệ thống biên tập tập trung."
+
+policy:
+  allow_implicit_invocation: true

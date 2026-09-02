@@ -1,0 +1,7 @@
+interface:
+  display_name: "Discovery Analysis — Phân tích discovery"
+  short_description: "Discovery Analysis cho quyết định kinh doanh thực tế"
+  default_prompt: "Dùng $smos-17-discovery-analysis để biến bằng chứng từ cuộc gọi thành chẩn đoán cơ hội đáng tin, khoảng trống và hành động đã thống nhất."
+
+policy:
+  allow_implicit_invocation: true

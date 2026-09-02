@@ -1,0 +1,7 @@
+interface:
+  display_name: "Sales Manager — Điều hành đội sales"
+  short_description: "Sales Manager cho quyết định kinh doanh thực tế"
+  default_prompt: "Dùng $smos-21-sales-manager để tổng hợp performance, pipeline, activity, coaching evidence và ưu tiên thành operating brief cho người quản lý."
+
+policy:
+  allow_implicit_invocation: true

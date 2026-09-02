@@ -1,0 +1,7 @@
+interface:
+  display_name: "Pipeline Review — Rà soát pipeline"
+  short_description: "Pipeline Review cho quyết định kinh doanh thực tế"
+  default_prompt: "Dùng $smos-20-pipeline-review để biến dữ liệu opportunity thành forecast, risk view và danh sách hành động có thứ tự ưu tiên dựa trên bằng chứng."
+
+policy:
+  allow_implicit_invocation: true
